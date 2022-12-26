@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world
 by Achyuta
+=======
+Hello Kumar how r u/
+>>>>>>> KLU1
